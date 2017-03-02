@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="label_result">Result</string>
+    <string name="label_valor_dois">Value 2</string>
+    <string name="label_valor_um">Value 1</string>
+    <string name="texto_botao_dividir">Divide</string>
+    <string name="texto_botao_multiplicar">Multiply</string>
+    <string name="texto_botao_somar">Sum</string>
+    <string name="texto_botao_subtrair">Subtract</string>
+</resources>
